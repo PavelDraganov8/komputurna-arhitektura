@@ -9,3 +9,7 @@
 # Configuration
 ## 3.Budget 
 ### [config3](https://pcpartpicker.com/list/P6hm2k)
+
+# Configuration
+## 4.3D graphic designer
+### [config4](https://pcpartpicker.com/user/NateSuperNate/saved/2pDtK8)
