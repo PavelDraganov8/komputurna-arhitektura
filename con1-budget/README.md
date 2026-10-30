@@ -13,3 +13,7 @@
 # Configuration
 ## 4.3D graphic designer
 ### [config4](https://pcpartpicker.com/user/NateSuperNate/saved/2pDtK8)
+
+# Configuration
+## 5.Work Station
+### [config5](https://pcpartpicker.com/list/QYTzph)
